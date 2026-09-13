@@ -5,7 +5,6 @@ import { FaPause, FaPlay, FaVolumeUp } from "react-icons/fa";
 
 const Player = () => {
   const {
-    songs,
     song,
     fetchSingleSong,
     nextSong,prevSong,
